@@ -1,10 +1,8 @@
-# Discern
-Program for discernment of the type of the point set and its reconstruction
 CGAL implementation of the paper- A Sampling Type Discernment Approach towards Reconstruction of a Point Set in R2 To be published in CAGD
 
 ################## Implementation of: ##################
 
-Paper Title:- A Sampling Type Discernment Approach towards Reconstruction of a Point Set in R2 Authors:- Safeer Babu Thayyil, Jiju Peethambaran, Ramanathan Muthuganapathy
+Paper Title:- A Sampling Type Discernment Approach towards Reconstruction of a Point Set in R 2 Authors:- Safeer Babu Thayyil, Jiju Peethambaran, Ramanathan Muthuganapathy
 
 Operating system recommended:- Ubuntu 14.04 or newer
 
